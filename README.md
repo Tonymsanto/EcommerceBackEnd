@@ -3,7 +3,7 @@
 ## Description
 This project is used to create a database for an ecommerce website. This project makes it easy to modify and change this database if needed. Below is a video walkthrough on how you can use the application.
 
-
+https://drive.google.com/file/d/166JVUp9Lj8MJ_zHesBvuGZhn2upYhMJg/view?usp=sharing
 
 ## Table of Contents
 1. [Installation Instructions](#installation)
